@@ -1,0 +1,19 @@
+body {
+    background-color: #e6f0fa; /* Bleu très clair */
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; /* Centre verticalement */
+    margin: 0;
+}
+
+.presentation-box {
+    background-color: #ffffff;
+    padding: 40px;
+    border-radius: 12px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+    max-width: 600px;
+    width: 90%;
+    text-align: center;
+}

@@ -1,0 +1,33 @@
+/*Cadrage de la page*/
+
+
+aside {
+  text-align: center;
+}
+main {
+  border: solid;
+  
+  text-align: center;
+  border-radius: 20px;
+  margin-left: 150px;
+  margin-right: 150px;
+}
+
+/*Boutons*/
+
+button {border: solid;
+border-radius: 20px;}
+
+
+
+/*Tableaux*/
+
+table {
+  margin-left: 300px;
+  margin-right: 300px;
+}
+
+td {
+ 
+  text-align: center;
+}

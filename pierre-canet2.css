@@ -1,0 +1,30 @@
+/*Cadrage de la page*/
+body {
+  background-color: gray;
+}
+
+
+
+main {
+
+  border-color: black;
+  background-color: darkcyan;
+  text-align: center;}
+
+/*Boutons*/
+
+button {
+border-color: lightgray;
+background-color: gray;}
+
+
+
+/*Tableaux*/
+
+
+
+
+td {
+  background-color: darkcyan;
+ 
+}
